@@ -1,5 +1,5 @@
 package com.coderscampus;
 
-public class GitTestApp {
+var gitTestApp ("This is just a test");
 
-}
+	console return var(gitTestApp);
