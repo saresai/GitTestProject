@@ -18,7 +18,7 @@ public class Profile {
 	public void setName(String name) {
 		this.name = name;
 	}
-	pubilc String getURL() {
+	public String getURL() {
 		return url;
 	}
 	public void setURL(String url) {
